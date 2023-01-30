@@ -1,4 +1,4 @@
-from tobrot.sample_config import Config
+from tobrot.config import Config
 #Fill your all data, read readme for reference
 
 class Config(Config):
